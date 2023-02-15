@@ -11,5 +11,25 @@
 }
 
 h1 {
-  margin: 1rem 3rem;
+  margin: 1rem;
+  padding: 1rem 2rem;
+  color: white;
+}
+
+button {
+  font-weight: bold;
+  font-size: 2rem;
+  padding: .1rem 2rem;
+}
+
+.color-green {
+  background-color: green;
+}
+
+.color-blue {
+  background-color: blue;
+}
+
+.color-red {
+  background-color: red;
 }
